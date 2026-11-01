@@ -51,7 +51,7 @@ android.ndk = 25b
 
 
 # (str) Android arch to build for
-android.archs = arm64-v8a, armeabi-v7a
+android.archs = arm64-v8a
 
 # (int) Log level (0 = error only, 1 = info, 2 = debug command output)
 log_level = 2
