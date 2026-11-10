@@ -25,8 +25,7 @@ source.exclude_patterns = license,images/.*
 version = 0.1
 
 # (list) Application requirements
-requirements = python3,kivy,cython==0.29.36
-
+requirements = python3,kivy
 
 # (str) Supported orientations
 orientation = portrait
