@@ -25,7 +25,8 @@ source.exclude_patterns = license,images/.*
 version = 0.1
 
 # (list) Application requirements
-requirements = python3,kivy
+requirements = python3,kivy,sqlite3
+
 
 # (str) Supported orientations
 orientation = portrait
@@ -44,7 +45,7 @@ android.api = 33
 android.min_api = 21
 
 # (str) Android SDK version to use
-android.sdk = 33
+# android.sdk = 33
 
 # (str) Android NDK version to use
 android.ndk = 25b
