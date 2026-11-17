@@ -56,4 +56,3 @@ android.archs = arm64-v8a
 
 # (int) Log level (0 = error only, 1 = info, 2 = debug command output)
 log_level = 2
-p4a.branch = issue_fix
