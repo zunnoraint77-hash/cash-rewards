@@ -25,7 +25,7 @@ source.exclude_patterns = license,images/.*
 version = 0.1
 
 # (list) Application requirements
-requirements = python3,kivy,sqlite3
+requirements = python3,kivy,sqlite3,pyjnius
 
 
 # (str) Supported orientations
